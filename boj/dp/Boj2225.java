@@ -27,6 +27,6 @@ public class Boj2225 {
             }
         }
 
-        //System.out.println(dp[K][N]);
+        System.out.println(dp[K][N]);
     }
 }
